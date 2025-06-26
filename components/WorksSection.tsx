@@ -6,7 +6,7 @@ const WorksSection = () => {
     {
       title: 'Rsi.or.id',
       description:
-        'Front-Page of Research Synergy Institute website, a research institute based in Indonesia.',
+        'Website of Research Synergy Institute, a research institute based in Indonesia.',
       technologies: ['WordPress', 'ElementorPro'],
       liveUrl: 'https://rsi.or.id',
     },
