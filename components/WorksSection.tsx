@@ -4,6 +4,13 @@ import { ExternalLink } from 'lucide-react';
 const WorksSection = () => {
   const projects = [
     {
+      title: 'Pace Terminal',
+      description:
+        'Website for Pace Terminal, a digital platform for learning solana tokens.',
+      technologies: ['Next.js', 'Tanstack', 'AlignUI'],
+      liveUrl: 'https://paceterminal.com',
+    },
+    {
       title: 'Rsi.or.id',
       description:
         'Website of Research Synergy Institute, a research institute based in Indonesia.',
