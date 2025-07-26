@@ -6,7 +6,7 @@ const WorksSection = () => {
     {
       title: 'Pace Terminal',
       description:
-        'Website for Pace Terminal, a digital platform for learning solana tokens.',
+        'Website for Pace Terminal, a digital platform for learning alpha tokens.',
       technologies: ['Next.js', 'Tanstack', 'AlignUI'],
       liveUrl: 'https://paceterminal.com',
     },
@@ -14,7 +14,7 @@ const WorksSection = () => {
       title: 'Rsi.or.id',
       description:
         'Website of Research Synergy Institute, a research institute based in Indonesia.',
-      technologies: ['WordPress', 'ElementorPro'],
+      technologies: ['WordPress', 'Elementor Pro'],
       liveUrl: 'https://rsi.or.id',
     },
     {
